@@ -7,6 +7,8 @@ def fizzbuzz(int)
   elsif int % 5 == 0 
     "Buzz"
   end
-else
+else int % 3 , 5 == 0
+  "FizzBuzz"
+end
   
 end
